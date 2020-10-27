@@ -1,0 +1,49 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+.searchBar{
+  background-color: darkblue;
+}
+
+.myButton{
+  width:100%;
+}
+
+
+
+.Header-right{
+  font-size:smaller;
+  text-align:right;
+}
+
+.Header-left{
+  float:left;
+  text-align: left;
+}
+
+.eqgreen{
+  background-color: rgb(9, 189, 9);
+}
+
+.eqred{
+  background-color: rgb(255, 0, 0);
+}
+
+.eqorange{
+  background-color: rgb(255, 187, 0);
+}
+
+.eqyellow{
+  background-color: rgb(238, 255, 0);
+}
